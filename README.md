@@ -11,6 +11,6 @@
 
 ### 이수증
 
- ![certificate](certificate/certificate.pdf)  
+ ![certificate](certificate/certificate.PNG)  
 
 
