@@ -11,6 +11,6 @@
 
 ### 이수증
 
- ![certificate](../certificate.pdf)  
+ ![certificate](https://github.com/Byung-moon/AI_Huinno_Academy_BasicClass/blob/master/certificate.pdf)  
 
 
